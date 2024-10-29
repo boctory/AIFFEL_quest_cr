@@ -1,7 +1,7 @@
 # Repository Setup Instructions
 
 # Clone the repository
-git clone https://github.com/your-username/AIFFEL_quest_cr.git
+git clone https://github.com/boctory/AIFFEL_quest_cr.git
 cd AIFFEL_quest_cr
 
 # Create main directories
