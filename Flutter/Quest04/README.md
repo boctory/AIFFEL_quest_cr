@@ -37,7 +37,8 @@
 
 # 회고(참고 링크 및 코드 개선)
 ```
-# 리뷰어의 회고를 작성합니다.
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+오병철 회고: 이번 퀘스트를 진행하면서 전반적으로 앱을 개발하는 프로세스를 확인할 수 있어서 좋았고, 특히 어떻게 메뉴를 구성하고, 와이어프레임을 어떻게 엮어야 효율적이고 편의성이 확보되는지 깊게 고민하고 즐겁게 만들어 볼 수 있었습니다.
+앞으로 더 많은 부분 열심히 공부해야겠다는 생각을 해보았습니다.
+피그마 데모 링크 
+https://www.figma.com/proto/FZxy1pPJ9TeRQxxoiBWbJr/AISTUDIO?page-id=9%3A88&node-id=9-541&p=f&viewport=137%2C401%2C0.42&t=eCg64RKswNy2KeiR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=9%3A361
 ```
